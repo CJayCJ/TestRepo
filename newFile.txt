@@ -1,1 +1,1 @@
-This is a new file (EDITED a 5th time(Edited in the main branch)
+This is a new file (EDITED a 5th time (changed in EditNewFile branch))

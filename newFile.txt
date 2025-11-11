@@ -1,1 +1,2 @@
 This is a new file (EDITED a 5th time (changed in EditNewFile branch))
+This file has been edited on github resolving test issue
